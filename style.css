@@ -1,1 +1,35 @@
-.
+.Serveis {
+    background-color: #13ce89;
+    color: #db1e1e;
+    border: 1px solid black;
+}
+
+.Seguretat {
+    background-color: #e05186;
+    color: #000000;
+    border: 1px solid black;
+}
+
+.Sistemes {
+    background-color: #0ab0f7;
+    color: #25fc04;
+    border: 1px solid black;
+}
+
+.EIE {
+    background-color: #0101fc;
+    color: #ffffff;
+    border: 1px solid black;
+}
+
+.Aplicacions {
+    background-color: #d9c215;
+    color: #10009e;
+    border: 1px solid black;
+}
+
+.Pati {
+    background-color: #4813ce;
+    color: #c8db1e;
+    border: 1px solid black;
+}
