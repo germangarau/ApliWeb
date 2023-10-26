@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 
 h1 {
     color: #8EA4F4;
@@ -9,3 +12,69 @@ h1 {
     font-style: normal;
     font-weight: 700;
 }
+
+h2 {
+    color: #000;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.96px;
+    position: relative;
+    width: 143px;
+    height: 50px;
+    transform: rotate(-90deg);
+    flex-shrink: 0;
+    top: 50px;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+
+h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 140px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 79.045%; /* 110.663px */
+    letter-spacing: -2.8px;
+}
+
+#Happyday {
+    position: relative;
+    top: 10px;
+    left: 50px;
+    width: 100px;
+}
+
+.color1 {
+    color: #8EA4F4;
+}
+
+.color2 {
+    color: #da4906;
+}
+
+.color3 {
+    color: #02e233;
+}
+
+.color4 {
+    color: #f5e506;
+}
+
+.color5 {
+    color: #03f1f1;
+}
+
+.color6 {
+    color: #f50b0b;
+}
+
+.color7 {
+    color: #000000;
+}
+
+
+
