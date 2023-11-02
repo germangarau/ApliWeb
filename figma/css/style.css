@@ -99,7 +99,7 @@ h4 {
     flex-shrink: 0;
     border: 2px solid #000;
     background: #FFF;
-    margin-left: 250px;
+    margin-left: 70px;
     margin-bottom: 100px;
     color: #000;
     text-align: center;
@@ -133,7 +133,45 @@ h4 {
 }
 
 .foto {
-    width: 1125px;
-    height: 750px;
+    width: 725px;
+    height: 725px;
     flex-direction: column;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.tamaño {
+    min-width: 400px;
+    max-width: 1400px;
+}
+
+.buscador {
+    width: 330px;
+    height: 30px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    border: 0.5px solid #393939;
+    margin-left: 660px;
+    margin-top: 45px;
+}
+
+.happyday {
+    display: flex;
+}
+
+.lupa {
+    width: 21px;
+    height: 21px;
+    flex-shrink: 0;
+    margin-left: -30px;
+    margin-top: 50px;
+}
+
+.icono-fondo {
+    width: 49px;
+    height: 49px;
+    flex-shrink: 0;
+    margin-left: 30px;
+    margin-top: 35px;
 }
